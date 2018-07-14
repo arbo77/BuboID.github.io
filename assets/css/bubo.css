@@ -13,10 +13,10 @@ body{
   margin-bottom: 40px;
 }
 #banner::after{
-  background-image: -moz-linear-gradient(top, rgba(222, 241, 166, 0.88), rgba(19, 78, 40, 0.6)), url(images/overlay.png);
-  background-image: -webkit-linear-gradient(top, rgba(222, 241, 166, 0.88), rgba(19, 78, 40, 0.6)), url(images/overlay.png);
-  background-image: -ms-linear-gradient(top, rgba(222, 241, 166, 0.88), rgba(19, 78, 40, 0.6)), url(images/overlay.png);
-  background-image: linear-gradient(top, rgba(222, 241, 166, 0.88), rgba(19, 78, 40, 0.6)), url(images/overlay.png);
+  background-image: -moz-linear-gradient(top, rgba(68, 68, 68, 0.9), rgba(16, 16, 16, 0.7)), url(images/overlay.png);
+  background-image: -webkit-linear-gradient(top, rgba(68, 68, 68, 0.9), rgba(16, 16, 16, 0.7)), url(images/overlay.png);
+  background-image: -ms-linear-gradient(top, rgba(68, 68, 68, 0.9), rgba(16, 16, 16, 0.7)), url(images/overlay.png);
+  background-image: linear-gradient(top, rgba(68, 68, 68, 0.9), rgba(16, 16, 16, 0.7)), url(images/overlay.png);
 }
 #banner .content header h2 {
   font-weight: 700;
